@@ -1,33 +1,28 @@
 # Olá! Eu sou Samuel
 
 💻 Estudante de Tecnologia  
- SQL Server | JavaScripty
- HTML | CSS  
+ SQL Server | Java
  Banco de Dados e programação
 
-##  Sobre mim
+# Sobre mim
 
 Atualmente estou estudando Tecnologia e desenvolvendo meus conhecimentos
 por meio de projetos práticos.
 
-Tenho interesse principalmente em devesenvolvimento, SQL, Python,
-Análise de Dados e Web.
-
-## 📚 Atualmente estudando
+# Atualmente estudando
 
 - Banco de Dados
 - SQL Server
-- JavaScripty
-- HTML e CSS
+- Java
 - Power BI
 
-## 📂 Projetos
+ 📂 Projetos
 
  Projetos em desenvolvimento...
 
 Em breve, novos projetos serão adicionados ao meu portfólio.
 
-##  Objetivo
+#  Objetivo
 
 Continuar aprendendo, desenvolver projetos práticos e evoluir
 constantemente na área de Tecnologia.
