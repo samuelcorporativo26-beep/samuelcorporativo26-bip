@@ -1,8 +1,7 @@
 # Olá! Eu sou Samuel
 
 💻 Estudante de Tecnologia  
- SQL Server | Java 
- Power BI
+ SQL Server | Java | Power BI
 
 👨‍💻 Sobre mim
 
