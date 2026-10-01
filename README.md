@@ -12,7 +12,7 @@ por meio de projetos práticos.
 # Atualmente estudando
 - SQL Server
 - Java
-# Experiência Inicias
+# Experiências Inicias
 - Power BI
 - Excel e Power Query
 
