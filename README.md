@@ -1,11 +1,11 @@
-# Olá! 👋 Eu sou Samuel
+# Olá! Eu sou Samuel
 
 💻 Estudante de Tecnologia  
-🗄️ SQL Server | Python 
-🌐 HTML | CSS  
-📊 Banco de Dados e programação
+ SQL Server | JavaScripty
+ HTML | CSS  
+ Banco de Dados e programação
 
-## 🚀 Sobre mim
+##  Sobre mim
 
 Atualmente estou estudando Tecnologia e desenvolvendo meus conhecimentos
 por meio de projetos práticos.
@@ -17,17 +17,17 @@ Análise de Dados e Web.
 
 - Banco de Dados
 - SQL Server
-- Python
+- JavaScripty
 - HTML e CSS
 - Power BI
 
 ## 📂 Projetos
 
-🚧 Projetos em desenvolvimento...
+ Projetos em desenvolvimento...
 
 Em breve, novos projetos serão adicionados ao meu portfólio.
 
-## 🎯 Objetivo
+##  Objetivo
 
 Continuar aprendendo, desenvolver projetos práticos e evoluir
 constantemente na área de Tecnologia.
