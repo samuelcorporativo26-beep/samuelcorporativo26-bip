@@ -34,4 +34,4 @@ constantemente na área de Tecnologia.
 
 ---
 
-⭐ Obrigado por visitar meu perfil!
+Obrigado por visitar meu perfil!
